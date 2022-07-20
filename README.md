@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CallumPat123
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently studying computer science at University of Western Australia
+- 🌱 I’m currently studying computer science at the University of Western Australia
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email--Callumroy00@gmail.com
 
